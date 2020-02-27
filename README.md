@@ -1,5 +1,7 @@
 # 2015-DMD-IU-Course-Project
-This is the first version of the Data Modelling and Databases course project that was developed during the first semester in Innopolis University '15.
+This is the first version of the Data Modelling and Databases course project that was developed during the first semester in Innopolis University '15. 
+
+> Notice that it is quite stinky and needs future revisioning (or not :slightly_smiling_face:)
 
 ## Prepare the Environment
 
@@ -37,6 +39,7 @@ The program will run for a while. For example, it takes 974 seconds to parse dbl
 
 1. Parse journals, books and theses as well. 
 
+```xml
 <article key="journals/ac/Wexelblat75">
 <author>Richard L. Wexelblat</author>
 <title>Programmed Control of Asynchronous Program Interrupts.</title>
@@ -46,3 +49,4 @@ The program will run for a while. For example, it takes 974 seconds to parse dbl
 <journal>Advances in Computers</journal>
 <url>db/journals/ac/ac13.html#Wexelblat75</url>
 </article>
+```
